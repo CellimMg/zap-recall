@@ -1,0 +1,24 @@
+.cards {
+    margin-top: 50px;
+}
+
+.body {
+    padding-bottom: 50px;
+    padding-top: 80px;
+    height: auto;
+    width: 100%;
+    overflow-y: scroll;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-text {
+    height: 60px;
+    display: flex;
+}
+
+.logo-text img {
+    margin-right: 15px;
+}

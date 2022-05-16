@@ -1,0 +1,37 @@
+.footer {
+    margin-top: 20px;
+    width: 100%;
+    min-height: 70px;
+    background-color: white;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.footer span {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Recursive', sans-serif;
+    color: #333333;
+}
+
+.title span {
+    margin-left: 10px;
+    line-height: 23px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.title {
+    margin-top: 22px;
+    display: flex;
+}
+
+.icon {
+    margin-bottom: 20px;
+    margin-right: 8px;
+}

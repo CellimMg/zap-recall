@@ -1,0 +1,23 @@
+div span {
+    margin-bottom: 30px;
+    margin-top: 13px;
+    font-size: 36px;
+    color: white;
+    font-family: 'Righteous', cursive;
+    line-height: 44px;
+}
+
+button {
+    background-color: white;
+    color: #D70900;
+    border: solid 1px #D70900;
+    border-radius: 5px;
+    height: 54px;
+    width: 246px;
+    font-size: 18px;
+    font-family: 'Recursive', sans-serif;
+}
+
+button:hover {
+    cursor: pointer;
+}

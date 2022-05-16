@@ -1,0 +1,29 @@
+.card {
+    height: 65px;
+    width: 300px;
+    border: solid 1px white;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    padding: 0 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card span {
+    margin: 0;
+    line-height: 19px;
+    font-family: 'Recursive', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.answered-text {
+    text-decoration: line-through;
+}
+
+.card img {
+    width: 20px;
+    height: 23px;
+}

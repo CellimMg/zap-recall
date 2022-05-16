@@ -1,0 +1,21 @@
+.button {
+    height: 37px;
+    width: 85px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button span {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    font-family: 'Recursive', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.button:hover {
+    cursor: pointer;
+}
