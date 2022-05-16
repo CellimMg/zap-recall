@@ -1,14 +1,23 @@
 @import-normalize;
 
+
+
 body,
 html,
 .root {
     width: 100%;
     height: 100%;
+
 }
 
 * {
     box-sizing: border-box;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;
+}
+
+*::-webkit-scrollbar {
+    display: none;
 }
 
 
